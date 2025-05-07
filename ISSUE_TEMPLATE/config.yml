@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🐛 버그 신고
+    url: https://github.com/monstersupream/issue-templates/issues/new?template=bug_report.md
+    about: 버그 또는 예기치 않은 동작을 신고합니다.
+
+  - name: 🚀 기능 요청
+    url: https://github.com/monstersupream/issue-templates/issues/new?template=feature_request.md
+    about: 새로운 기능 또는 개선 사항을 제안합니다.
+
+  - name: ❓ 일반 문의
+    url: https://github.com/monstersupream/issue-templates/issues/new?template=question.md
+    about: 질문 또는 논의
