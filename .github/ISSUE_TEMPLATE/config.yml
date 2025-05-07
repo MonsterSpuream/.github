@@ -8,6 +8,14 @@ contact_links:
     url: .github/ISSUE_TEMPLATE/feature_request.md
     about: 새로운 기능 또는 개선 사항을 제안합니다.
 
+  - name: ✨ 개선 사항
+    url: .github/ISSUE_TEMPLATE/improvement.md
+    about: 기존 기능의 개선 사항을 제안합니다.
+
+  - name: ✅ 개선 완료
+    url: .github/ISSUE_TEMPLATE/improvement_complete.md
+    about: 개선된 기능에 대한 완료 보고서를 작성합니다.
+
   - name: ❓ 일반 문의
     url: .github/ISSUE_TEMPLATE/question.md
     about: 질문 또는 논의
